@@ -38,4 +38,4 @@ This dataset is for educational and research purposes. Attribution is appreciate
 
 ---
 
-📌 Created with ❤️ by [Gökhan Ergül](https://github.com/Gokhan-Ergul)
+📌 Created with by [Gökhan Ergül](https://github.com/Gokhan-Ergul)
